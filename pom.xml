@@ -201,6 +201,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses />.
 						</goals>
 					</execution>
 				</executions>
+			</plugin> 
+			<!-- Plug in to copy license and notice to META-INF folder inside jar file-->
+			<plugin>
+			  <groupId>org.jasig.maven</groupId>
+			  <artifactId>maven-jasig-legal-plugin</artifactId>
+			  <version>1.0.2</version>
+			  <executions>
+			    <execution>
+			      <id>copy-files</id>
+			      <goals>
+			        <goal>copy-files</goal>
+			      </goals>
+			    </execution>
+			  </executions>
 			</plugin>
 		</plugins>
 		<pluginManagement>
