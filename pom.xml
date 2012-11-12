@@ -305,7 +305,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses />.
             <uniqueVersion>false</uniqueVersion>
             <id>distributionRepository</id>
             <name>Repository for distribution and publishing</name>
-            <url>/Users/faheem/Documents/workspace/netcare-commons.auth/</url>
+            <url>file:///Users/faheem/Documents/workspace/netcare-commons.auth/releaseRepository</url>
             <layout>default</layout>
         </repository>
 	</distributionManagement>
