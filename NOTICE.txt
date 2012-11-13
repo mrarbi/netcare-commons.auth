@@ -22,15 +22,3 @@ http://www.slf4j.org/license.html
 Logback 1.0.6
 Licensed under EPL v1.0 and LGPL 2.1
 http://logback.qos.ch/license.html
-
-Maven Compiler Plugin
-Licensed under Apache Software License 2.0
-http://maven.apache.org/plugins/maven-compiler-plugin/license.html
-
-Maven License Plugin
-Licensed under Apache Software License 2.0
-http://code.google.com/p/maven-license-plugin
-
-Maven Jasig Legal Plugin 1.0.2
-Licensed under Apache Software License 2.0
-https://github.com/Jasig/maven-jasig-legal-plugin
